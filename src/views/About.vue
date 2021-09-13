@@ -3,7 +3,7 @@
      <!-- 1.定义组件 2.渲染组件表 -->
      <input type="button" value="获取元素" @click="btn"/>
       <h3 id="h33" ref="myh3">zwwasdsdsdf</h3>
-       
+       <div>234523445</div>
   </div>
 </template>
 <script>
